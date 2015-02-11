@@ -2,4 +2,11 @@
 
 #List of team members 
 
+#Project pitch
+
+#Project plan
+
+#Proposed technology
+
+#Marking scheme
 
