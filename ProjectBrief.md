@@ -1,6 +1,6 @@
 # CI224 University Gamesdev Sesmester 2 Assessment
 
-#List of team members: 
+#List of team members & Objectives: 
 
 Reece Cunningham
 
