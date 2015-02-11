@@ -1,8 +1,8 @@
 # CI224 University Gamesdev Sesmester 2 Assessment
 
-#List of team members 
+#List of team members: 
 
-Reece Cunningham 
+Reece Cunningham
 
 Objectives:
 
@@ -25,11 +25,26 @@ Objectives:
 #Project pitch
 
 
+
+
 #Project plan
 
 
 #Proposed technology
 
+1) C++11
 
+2) SDL2
+
+3) SDL2_IMAGE
+
+4) OPENGL
+
+5) GLEW
+
+6) Automated build tools
+
+7) Testing tools
+ 
 #Marking scheme
 
