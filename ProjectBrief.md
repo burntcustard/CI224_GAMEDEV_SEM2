@@ -65,6 +65,7 @@ Objectives if time permits:
   - collison detection 
   - Shoot projectiles and enimies that die when hit by projectiles
 
+
 		20% clean code and using standard tools such as git
 		- continous integration
 		- doxygen for commenting code 
@@ -79,7 +80,7 @@ Objectives if time permits:
 		15% Make pyton wrapper
 		-
 		
-		Add code structure 
+		 code structure 
 		-
 		-
 		
