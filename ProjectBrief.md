@@ -71,10 +71,10 @@ Objectives if time permits:
 - testing 
 
 
-25% code quality
--clean code
--throughly commented code
--run on different platforms
+25% enhancements to game
+- add up player score
+- enimies attacking player
+- ability to jump on cubes
 
 
 25% enhancements to game
