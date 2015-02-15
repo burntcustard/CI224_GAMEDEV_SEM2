@@ -86,10 +86,6 @@ To meet the objectives of our assessment we will use our current semester 1 code
 - ability to jump on cubes
 - messages for player i.e game over
 
-20% enhancements to game
-- add up player score
-- enimies attacking player
-- ability to jump on cubes
-- messages for player i.e game over
+
 
 
