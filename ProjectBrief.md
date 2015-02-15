@@ -70,7 +70,7 @@ Objectives if time permits:
 - build system
 - testing 
 
-25% Code quality
+25% code quality
 -clean code
 -throughly commented code
 -run on different platforms
