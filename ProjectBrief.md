@@ -70,10 +70,12 @@ Objectives if time permits:
 - build system
 - testing 
 
+
 25% code quality
 -clean code
 -throughly commented code
 -run on different platforms
+
 
 25% enhancements to game
 - add up player score
