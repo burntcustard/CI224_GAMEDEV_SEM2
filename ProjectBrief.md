@@ -2,8 +2,7 @@
 
 #List of team members & Objectives: 
 
-Reece Cunningham
-Owen Alister-Hooke
+Reece Cunningham, Owen Alister-Hooke, John Evans
 
 Objectives:
 
@@ -29,9 +28,6 @@ Objectives if time permits:
 
 2) Enemies.
 
-3) If feeling really adventorous split screen.
-
-4) model loader for 3d model.
 
 #Project pitch
 
@@ -66,15 +62,15 @@ Objectives if time permits:
   - Shoot projectiles and enimies that die when hit by projectiles
 
 
-		20% clean code and using standard tools such as git
-		- continous integration
-		- doxygen for commenting code 
-		- build system
-		- unit testing 
+25%  Using standard tools such as git, makefile etc.
+- continous integration
+-  doxygen for commenting code 
+- build system
+- unit testing 
 
 		30% FPS character 
 		- Ability to jump on cubes
-  - adding up amount of objects shot 
+                - adding up amount of objects shot 
 		- when all objects show message saying game complete
 
 		15% Make pyton wrapper
