@@ -1,6 +1,6 @@
 # CI224 University Gamesdev Sesmester 2 Assessment
 
-#List of team members & Objectives: 
+#List of team members & objectives: 
 
 Reece Cunningham, Owen Alister-Hooke, John Evans
 
@@ -27,6 +27,8 @@ Objectives if time permits:
 1) Jump on cubes.
 
 2) Enemies.
+
+3) Add up score for amount of cubes shot.
 
 
 #Project pitch
@@ -55,31 +57,20 @@ Objectives if time permits:
  
 #Marking scheme
 
-  20% working playable game level
-  - cubeworld
-  - first person camera
-  - collison detection 
-  - Shoot projectiles and enimies that die when hit by projectiles
+25% working playable game level
+- cubeworld
+- first person camera
+- collison detection 
+- Shoot projectiles and cubes removed when hit
 
 
 25%  Using standard tools such as git, makefile etc.
 - continous integration
--  doxygen for commenting code 
+- doxygen for commenting code 
 - build system
 - unit testing 
 
-		30% FPS character 
-		- Ability to jump on cubes
-                - adding up amount of objects shot 
-		- when all objects show message saying game complete
 
-		15% Make pyton wrapper
-		-
-		
-		 code structure 
-		-
-		-
-		
-		
+
 
 
