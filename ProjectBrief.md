@@ -4,7 +4,7 @@
 
 Reece Cunningham, Owen Alister-Hooke, John Evans
 
-Objectives:
+Essential objectives:
 
 1) Create a cubeworld with at least 5 different cubes, or opengl shapes. 
 
@@ -22,7 +22,7 @@ Objectives:
 
 8) Thorough testing and supporting documentation such as doxygen.
 
-Objectives if time permits:
+Objectives entended:
 
 1) Jump on cubes.
 
@@ -30,13 +30,17 @@ Objectives if time permits:
 
 3) Add up score for amount of cubes shot.
 
+4) timer on screen.
+
 
 #Project pitch
 
-
+We intend for the game to be a first person shooter cubeworld game, whereby there are many different opengl cubes or shapes, which are all different in size and colour (textured if possible) and to have a first person camera with a gun showing. The aim of the game is to shot all the cubes within the cubeworld in the quickest time possible, whilst avoiding the enemies trying to prevent you from doing this. All of the things we would like to implement within the game can be found within the objectives list, such as adding the ability to jump on top of the cubes to make the game have greater playability for the user. 
 
 
 #Project plan
+
+To meet the objectives of our assessment we will use our current semester 1 code and extend on this by adding more cubes and opengl shapes. Then further extending the code by implementing the objectives needed for the game as stated above. In order to ensure we have a working game done properly, will list the objectives from most important to least important and separate the objectives into essential objectives and objectives extended. Then after creating the objectives list will create small goals for each objective, whereby the goals can be spread across the group to complete or alternatively assigning a feature to each group member .For each objective and deadline will be made for when the feature needs to be done by to ensure all the features are met i.e. feature 1 needs to be complete within a fortnight at the latest. Work done by each group member can be done forking the main repository for the project and once complete creating a pull request. 
 
 
 #Proposed technology
