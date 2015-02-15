@@ -64,13 +64,21 @@ Objectives if time permits:
 - Shoot projectiles and cubes removed when hit
 
 
-25%  Using standard tools such as git, makefile etc.
+25% Using standard tools such as git, makefile etc.
 - continous integration
 - doxygen for commenting code 
 - build system
-- unit testing 
+- testing 
 
+25% Code quality
+-clean code
+-throughly commented code
+-run on different platforms
 
+25% enhancements to game
+- add up player score
+- enimies attacking player
+- ability to jump on cubes
 
 
 
