@@ -6,7 +6,7 @@ Reece Cunningham, Owen Alister-Hooke, John Evans
 
 Essential objectives:
 
-1) Create a cubeworld with at least 5 different cubes, or opengl shapes. 
+1) Create a cubeworld with at least 10 different cubes, or opengl shapes. 
 
 2) All cubes to be at least different colours and size. Textured cubes if possible and time permits. 
 
@@ -84,6 +84,12 @@ To meet the objectives of our assessment we will use our current semester 1 code
 - add up player score
 - enimies attacking player
 - ability to jump on cubes
+- messages for player i.e game over
 
+20% enhancements to game
+- add up player score
+- enimies attacking player
+- ability to jump on cubes
+- messages for player i.e game over
 
 
